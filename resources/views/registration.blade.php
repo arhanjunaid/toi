@@ -17,7 +17,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   
   
-	   <!--font awasome icons-->
+       <!--font awasome icons-->
        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
@@ -39,14 +39,14 @@
   <!-- Custom Style CSS -->
   <link rel="stylesheet" href="public/newassets/css/style.css">
   
-    	<style>
-		.toggle-password {
+    <style>
+        .toggle-password {
             float: right;
             cursor: pointer;
             margin-right: 10px;
             margin-top: -25px;
          }
-		</style>
+        </style>
 
 </head>
 
@@ -86,7 +86,7 @@
                         G
                     </span>
                 </div>
-            </div>	
+            </div>  
 
             <div class="loader-section section-left"></div>
             <div class="loader-section section-right"></div>
@@ -110,7 +110,7 @@
                             <svg class="header__contact--info__icon" xmlns="http://www.w3.org/2000/svg" width="20.57" height="13.13" viewBox="0 0 31.57 31.13">
                                 <path  d="M30.413,4H5.157C3.421,4,2.016,5.751,2.016,7.891L2,31.239c0,2.14,1.421,3.891,3.157,3.891H30.413c1.736,0,3.157-1.751,3.157-3.891V7.891C33.57,5.751,32.149,4,30.413,4Zm0,7.783L17.785,21.511,5.157,11.783V7.891l12.628,9.728L30.413,7.891Z" transform="translate(-2 -4)" fill="currentColor"></path>
                             </svg>
-                            <a href="mailto:xxx@example.com">xxxx@example.com</a>
+                            <a href="mailto:support@vijaykarnataka.com">support@vijaykarnataka.com</a>
                         </li>
                     </ul>
                     <!-- <div class="language__currency d-none d-lg-block">
@@ -181,7 +181,7 @@
                                     <a class="header__menu--link" href="about.html">About US </a>  
                                 </li> -->
                                 <li class="header__menu--items">
-                                    <a class="header__menu--link" href="gallery">Gallery <!-- <span class="menu__plus--icon">+</span> --> </a>
+                                    <a class="header__menu--link" href="home#highlights">Highlights <!-- <span class="menu__plus--icon">+</span> --> </a>
                                   
                                 </li>
                                 <li class="header__menu--items">
@@ -230,8 +230,8 @@
         <div class="offcanvas-header" tabindex="-1">
             <div class="offcanvas__inner">
                 <div class="offcanvas__logo">
-                    <a class="offcanvas__logo_link" href="/">
-                        <img src="public/assetsj/images/client-logo/logo.jpg" alt="Rokon Logo">
+                    <a class="offcanvas__logo_link" href="home">
+                        <img src="public/assetsj/images/client-logo/logo.jpg" alt="Logo">
                     </a>
                     <button class="offcanvas__close--btn" data-offcanvas>close</button>
                 </div>
@@ -251,7 +251,7 @@
                           
                         </li>
                         <li class="offcanvas__menu_li">
-                            <a class="offcanvas__menu_item" href="gallery">Gallery</a>
+                            <a class="offcanvas__menu_item" href="home#highlights">Highlights</a>
                           
                         </li>
                         <li class="offcanvas__menu_li">
@@ -347,25 +347,25 @@
                     </a>
                 </li>
                 <li class="offcanvas__stikcy--toolbar__list">
-                    <a class="offcanvas__stikcy--toolbar__btn minicart__open--btn" href="javascript:void(0)" data-offcanvas>
+                    <a class="offcanvas__stikcy--toolbar__btn minicart__open--btn" href="home#howitworks" data-offcanvas>
                         <span class="offcanvas__stikcy--toolbar__icon"> 
                             <svg xmlns="http://www.w3.org/2000/svg" width="18.51" height="15.443" viewBox="0 0 18.51 15.443">
                             <path  d="M79.963,138.379l-13.358,0-.56-1.927a.871.871,0,0,0-.6-.592l-1.961-.529a.91.91,0,0,0-.226-.03.864.864,0,0,0-.226,1.7l1.491.4,3.026,10.919a1.277,1.277,0,1,0,1.844,1.144.358.358,0,0,0,0-.049h6.163c0,.017,0,.034,0,.049a1.277,1.277,0,1,0,1.434-1.267c-1.531-.247-7.783-.55-7.783-.55l-.205-.8h7.8a.9.9,0,0,0,.863-.651l1.688-5.943h.62a.936.936,0,1,0,0-1.872Zm-9.934,6.474H68.568c-.04,0-.1.008-.125-.085-.034-.118-.082-.283-.082-.283l-1.146-4.037a.061.061,0,0,1,.011-.057.064.064,0,0,1,.053-.025h1.777a.064.064,0,0,1,.063.051l.969,4.34,0,.013a.058.058,0,0,1,0,.019A.063.063,0,0,1,70.03,144.853Zm3.731-4.41-.789,4.359a.066.066,0,0,1-.063.051h-1.1a.064.064,0,0,1-.063-.051l-.789-4.357a.064.064,0,0,1,.013-.055.07.07,0,0,1,.051-.025H73.7a.06.06,0,0,1,.051.025A.064.064,0,0,1,73.76,140.443Zm3.737,0L76.26,144.8a.068.068,0,0,1-.063.049H74.684a.063.063,0,0,1-.051-.025.064.064,0,0,1-.013-.055l.973-4.357a.066.066,0,0,1,.063-.051h1.777a.071.071,0,0,1,.053.025A.076.076,0,0,1,77.5,140.448Z" transform="translate(-62.393 -135.3)" fill="currentColor"/>
                             </svg> 
                         </span>
-                        <span class="offcanvas__stikcy--toolbar__label">Cart</span>
-                        <span class="items__count">3</span> 
+                        <span class="offcanvas__stikcy--toolbar__label">How it works</span>
+                        <!-- <span class="items__count">3</span> --> 
                     </a>
                 </li>
                 <li class="offcanvas__stikcy--toolbar__list">
-                    <a class="offcanvas__stikcy--toolbar__btn" href="wishlist.html">
+                    <a class="offcanvas__stikcy--toolbar__btn" href="home#highlights">
                         <span class="offcanvas__stikcy--toolbar__icon"> 
                             <svg xmlns="http://www.w3.org/2000/svg" width="18.541" height="15.557" viewBox="0 0 18.541 15.557">
                             <path  d="M71.775,135.51a5.153,5.153,0,0,1,1.267-1.524,4.986,4.986,0,0,1,6.584.358,4.728,4.728,0,0,1,1.174,4.914,10.458,10.458,0,0,1-2.132,3.808,22.591,22.591,0,0,1-5.4,4.558c-.445.282-.9.549-1.356.812a.306.306,0,0,1-.254.013,25.491,25.491,0,0,1-6.279-4.8,11.648,11.648,0,0,1-2.52-4.009,4.957,4.957,0,0,1,.028-3.787,4.629,4.629,0,0,1,3.744-2.863,4.782,4.782,0,0,1,5.086,2.447c.013.019.025.034.057.076Z" transform="translate(-62.498 -132.915)" fill="currentColor"/>
                             </svg> 
                         </span>
-                        <span class="offcanvas__stikcy--toolbar__label">Wishlist</span>
-                        <span class="items__count wishlist__count">3</span> 
+                        <span class="offcanvas__stikcy--toolbar__label">Highlights</span>
+                        <!-- <span class="items__count wishlist__count">3</span> --> 
                     </a>
                 </li>
             </ul>
@@ -639,269 +639,245 @@
        <!-- login form section start-->
 
        <section class="container">
-	   
-			<div role="main" class="main">
-				<!--<div class="container shop py-3">-->
-				<div>
-				    
-					<form role="form" class="needs-validation" method="post" action="{{ route('user.data') }}">
-					@if(Session::get('success'))
-					<div class="alert alert-success">
-						{{Session('success')}}
-					</div>
 
-					@endif
+        
+            <div role="main" class="main" style="color:black">
+                <div>
+                    
 
-					@if(Session::get('fail'))
-					<div class="alert alert-danger">
-						{{Session('fail')}}
-					</div>
+                    <!--<div class="row login-form-wrapper collapse mb-5">-->
+                    <div class="row">
+                        <div class="col-md-2"></div>
 
-					@endif
+                        <div class="col-md-8 ">
+                            <div class="card border-width-3 border-radius-0 border-color-hover-dark">
+                                <div class="card-body">
+                                   <h2 style="text-align:center;color:white;background-color:#006666;padding:10px;border-radius:10px">Registration</h2>
+                                <br/>
+                                <h2 class="text-color-dark font-weight-bold text-5-5 mb-3">Customer Details</h2>
+                                <br/>
+                                <!-- 1st row start-->
+                                <div class="row">
+                                    <div class="form-group col-md-6">
+                                        <label class="form-label">First Name <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="firstName" value="{{ old('firstName') }}" required />
+                                            <span class="text-danger">@error('firstName'){{$message}}@enderror</span>
+                                    </div>
+                                    <div class="form-group col-md-6">
+                                        <label class="form-label">Last Name <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="lastName" value="{{ old('lastName') }}" required />
+                                        <span class="text-danger">@error('lastName'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                                <!-- 1st row end-->
+                                <!-- 2nd row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">Phone <span class="text-color-danger">*</span></label>
+                                        <input type="number" class="form-control h-auto py-2" name="phone" value="{{ old('phone') }}" required />
+                                        <span class="text-danger">@error('phone'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                                <!-- 2nd row end-->
 
-						@csrf
-						<div class="row">
-						   
-							<!--<div class="col-lg-7 mb-4 mb-lg-0 coupon-form-wrapper collapse mb-5">-->
-                                <div class="col-lg-7 mb-4 mb-lg-0 mb-5" style="border:3px solid black;padding: 45px;margin-left: 90px;">
-								<h2 style="text-align:center;color:white;background-color:#006666;padding:10px;border-radius:10px">Registration</h2>
-								<br/>
-								<h2 class="text-color-dark font-weight-bold text-5-5 mb-3">Customer Details</h2>
-								<br/>
-								<div class="row">
-									<div class="form-group col-md-6">
-										<label class="form-label">First Name <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="firstName" value="{{ old('firstName') }}" required />
-											<span class="text-danger">@error('firstName'){{$message}}@enderror</span>
-									</div>
-									<div class="form-group col-md-6">
-										<label class="form-label">Last Name <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="lastName" value="{{ old('lastName') }}" required />
-										<span class="text-danger">@error('lastName'){{$message}}@enderror</span>
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Phone <span class="text-color-danger">*</span></label>
-										<input type="number" class="form-control h-auto py-2" name="phone" value="{{ old('phone') }}" required />
-										<span class="text-danger">@error('phone'){{$message}}@enderror</span>
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Email Address <span class="text-color-danger">*</span></label>
-										<input type="email" class="form-control h-auto py-2" name="email" value="{{ old('email') }}" required />
-										<span class="text-danger">@error('email'){{$message}}@enderror</span>
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Password<span class="text-color-danger">*</span></label>
-										<input type="password" class="form-control h-auto py-2" name="password" required />
-										<i class="toggle-password fa fa-fw fa-eye-slash"></i>
-										<span class="text-danger">@error('password'){{$message}}@enderror</span>
-									</div>
-								</div>
-								<!--<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Company Name</label>
-										<input type="text" class="form-control h-auto py-2" name="companyName" value="" />
-									</div>
-								</div>-->
-							
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Street Address <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="address1" value="{{ old('address1') }}" placeholder="House number and street name" required />
-										<span class="text-danger">@error('address1'){{$message}}@enderror</span>
-									</div>
-								</div>
-								<!--<div class="row">
-									<div class="form-group col">
-										<input type="text" class="form-control h-auto py-2" name="address2" value="" placeholder="Apartment, suite, unit, etc..." required />
-									</div>
-								</div>-->
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Town/City <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="city" value="{{ old('city') }}" required />
-										<span class="text-danger">@error('city'){{$message}}@enderror</span>
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">State <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="state" value="{{ old('state') }}" required />
-										<span class="text-danger">@error('state'){{$message}}@enderror</span>
-										<!--<div class="custom-select-1">
-											<select class="form-select form-control h-auto py-2" name="state" required>
-												<option value="" selected></option>
-												<option value="ny">Nova York</option>
-												<option value="ca">California</option>
-												<option value="tx">Texas</option>
-												<option value="">Florida</option>
-											</select>
-										</div>-->
-									</div>
-								</div>
-									<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Country/Region <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="country" value="{{ old('country') }}" />
-										<span class="text-danger">@error('country'){{$message}}@enderror</span>
-										<!--<div class="custom-select-1">
-											<select class="form-select form-control h-auto py-2" name="country" required>
-												<option value="" selected></option>
-												<option value="usa">United States</option>
-												<option value="spa">Spain</option>
-												<option value="fra">France</option>
-												<option value="uk">United Kingdon</option>
-											</select>
-										</div>-->
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group col">
-										<label class="form-label">ZIP <span class="text-color-danger">*</span></label>
-										<input type="text" class="form-control h-auto py-2" name="zip" value="{{ old('zip') }}" required />
-										<span class="text-danger">@error('zip'){{$message}}@enderror</span>
-									</div>
-								</div>
-								
-								<div class="row">
-									<div class="form-group col">
-										<div class="custom-checkbox-1">
-											<input id="createAccount" type="checkbox" name="createAccount" value="1" />
-											<label for="createAccount">Create an account ?</label>
-										</div>
-									</div>
-								</div>
-								<!-- <div class="row">
-									<div class="form-group col">
-										<div class="custom-checkbox-1" data-bs-toggle="collapse" data-bs-target=".shipping-field-wrapper">
-											<input id="shipAddress" type="checkbox" name="shipAddress" value="1" />
-											<label for="shipAddress">Shop to a different address ?</label>
-										</div>
-									</div>
-								</div> -->
-								<!-- Ship to a differente address fields -->
-								<div class="shipping-field-wrapper collapse">
-									<div class="row">
-										<div class="form-group col-md-6">
-											<label class="form-label">First Name <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingFirstName" value="{{ old('shippingFirstName') }}" required />
-											<span class="text-danger">@error('shippingFirstName'){{$message}}@enderror</span>
-										</div>
-										<div class="form-group col-md-6">
-											<label class="form-label">Last Name <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingLastName" value="{{ old('shippingLastName') }}" required />
-											<span class="text-danger">@error('shippingLastName'){{$message}}@enderror</span>
-										</div>
-									</div>
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">Phone <span class="text-color-danger">*</span></label>
-											<input type="number" class="form-control h-auto py-2" name="shippingPhone" value="{{ old('shippingPhone') }}" required />
-											<span class="text-danger">@error('shippingPhone'){{$message}}@enderror</span>
-										</div>
-									</div>
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">Company Name</label>
-											<input type="text" class="form-control h-auto py-2" name="shippingCompanyName" value="{{ old('shippingCompanyName') }}" />
-											<span class="text-danger">@error('shippingCompanyName'){{$message}}@enderror</span>
-										</div>
-									</div>
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">Country/Region <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingCountry" value="{{ old('shippingCountry') }}" />
-											<span class="text-danger">@error('shippingCountry'){{$message}}@enderror</span>
-										
-											<!--<div class="custom-select-1">
-												<select class="form-select form-control h-auto py-2" name="shippingCountry" required>
-													<option value="" selected></option>
-													<option value="usa">United States</option>
-													<option value="spa">Spain</option>
-													<option value="fra">France</option>
-													<option value="uk">United Kingdon</option>
-												</select>
-											</div>-->
-										</div>
-									</div>
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">Street Address <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingAddress1" value="{{ old('shippingAddress1') }}" placeholder="House number and street name" required />
-											<span class="text-danger">@error('shippingAddress1'){{$message}}@enderror</span>
-										</div>
-									</div>
-								<!-- 	<div class="row">
-										<div class="form-group col">
-											<input type="text" class="form-control h-auto py-2" name="shippingAddress2" value="" placeholder="Apartment, suite, unit, etc..." required/>
-										</div>
-									</div> -->
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">Town/City <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingCity" value="{{ old('shippingCity') }}" required />
-											<span class="text-danger">@error('shippingCity'){{$message}}@enderror</span>
+                                <!-- 3rd row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">Email Address <span class="text-color-danger">*</span></label>
+                                        <input type="email" class="form-control h-auto py-2" name="email" value="{{ old('email') }}" required />
+                                        <span class="text-danger">@error('email'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                                <!-- 3rd row end-->
 
-										</div>
-									</div>
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">State <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingState" value="{{ old('shippingState') }}" required />
-											<span class="text-danger">@error('shippingState'){{$message}}@enderror</span>
-										
-											<!--<div class="custom-select-1">
-												<select class="form-select form-control h-auto py-2" name="shippingState" required>
-													<option value="" selected></option>
-													<option value="ny">Nova York</option>
-													<option value="ca">California</option>
-													<option value="tx">Texas</option>
-													<option value="">Florida</option>
-												</select>
-											</div>-->
-										</div>
-									</div>
-									<div class="row">
-										<div class="form-group col">
-											<label class="form-label">ZIP <span class="text-color-danger">*</span></label>
-											<input type="text" class="form-control h-auto py-2" name="shippingZip" value="{{ old('shippingZip') }}" required />
-											<span class="text-danger">@error('shippingZip'){{$message}}@enderror</span>
-										</div>
-									</div>
-									
-									<!-- End of Ship to a differente address fields -->
-								</div>
-								<!--<div class="row">
-									<div class="form-group col">
-										<label class="form-label">Order Notes</label>
-										<textarea class="form-control h-auto py-2" name="orderNotes" rows="5" placeholder="Notes about you orderm e.g. special notes for delivery"></textarea>
-									</div>
-								</div>-->
-								<br>
+                                <!-- 4th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">Password<span class="text-color-danger">*</span></label>
+                                        <input type="password" class="form-control h-auto py-2" name="password" required />
+                                        <i class="toggle-password fa fa-fw fa-eye-slash"></i>
+                                        <span class="text-danger">@error('password'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                                <!-- 4th row end-->
+
+                            
+                            <!-- 5th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">Street Address <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="address1" value="{{ old('address1') }}" placeholder="House number and street name" required />
+                                        <span class="text-danger">@error('address1'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                            <!-- 5th row end-->
+                            
+                            <!-- 6th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">Town/City <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="city" value="{{ old('city') }}" required />
+                                        <span class="text-danger">@error('city'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                               <!-- 6th row end--> 
+
+                               <!-- 7th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">State <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="state" value="{{ old('state') }}" required />
+                                        <span class="text-danger">@error('state'){{$message}}@enderror</span>
+                                    
+                                    </div>
+                                </div>
+                                <!-- 7th row end-->
+                                
+                                <!-- 8th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">Country/Region <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="country" value="{{ old('country') }}" />
+                                        <span class="text-danger">@error('country'){{$message}}@enderror</span>
+                                    
+                                    </div>
+                                </div>
+                                <!-- 8th row end-->
+
+                                <!-- 9th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <label class="form-label">ZIP <span class="text-color-danger">*</span></label>
+                                        <input type="text" class="form-control h-auto py-2" name="zip" value="{{ old('zip') }}" required />
+                                        <span class="text-danger">@error('zip'){{$message}}@enderror</span>
+                                    </div>
+                                </div>
+                                <!-- 9th row end-->
+                                
+                                <!-- 10th row start-->
+                                <div class="row">
+                                    <div class="form-group col">
+                                        <div class="custom-checkbox-1">
+                                            <input id="createAccount" type="checkbox" name="createAccount" value="1" />
+                                            <label for="createAccount">Create an account ?</label>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 10th row end-->
+                            
+                                <!-- Ship to a differente address fields -->
+                                <div class="shipping-field-wrapper collapse">
+                                    <!-- 11th row start-->
+                                    <div class="row">
+                                        <div class="form-group col-md-6">
+                                            <label class="form-label">First Name <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingFirstName" value="{{ old('shippingFirstName') }}" required />
+                                            <span class="text-danger">@error('shippingFirstName'){{$message}}@enderror</span>
+                                        </div>
+                                        <div class="form-group col-md-6">
+                                            <label class="form-label">Last Name <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingLastName" value="{{ old('shippingLastName') }}" required />
+                                            <span class="text-danger">@error('shippingLastName'){{$message}}@enderror</span>
+                                        </div>
+                                    </div>
+                                    <!-- 11th row end-->
+                                     
+                                    <!-- 12th row start-->
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">Phone <span class="text-color-danger">*</span></label>
+                                            <input type="number" class="form-control h-auto py-2" name="shippingPhone" value="{{ old('shippingPhone') }}" required />
+                                            <span class="text-danger">@error('shippingPhone'){{$message}}@enderror</span>
+                                        </div>
+                                    </div>
+                                    <!-- 12th row end-->
+
+                                   <!-- 13th row start-->
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">Company Name</label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingCompanyName" value="{{ old('shippingCompanyName') }}" />
+                                            <span class="text-danger">@error('shippingCompanyName'){{$message}}@enderror</span>
+                                        </div>
+                                    </div>
+                                    <!-- 13th row end-->
+                                    
+                                    <!-- 14th row start-->
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">Country/Region <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingCountry" value="{{ old('shippingCountry') }}" />
+                                            <span class="text-danger">@error('shippingCountry'){{$message}}@enderror</span>
+                                        
+                                            
+                                        </div>
+                                    </div>
+                                    <!-- 14th row end-->
+
+                                    <!-- 15th row start-->
+
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">Street Address <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingAddress1" value="{{ old('shippingAddress1') }}" placeholder="House number and street name" required />
+                                            <span class="text-danger">@error('shippingAddress1'){{$message}}@enderror</span>
+                                        </div>
+                                    </div>
+                                    <!-- 15th row end-->
+                                   
+                                   <!-- 16th row start-->
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">Town/City <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingCity" value="{{ old('shippingCity') }}" required />
+                                            <span class="text-danger">@error('shippingCity'){{$message}}@enderror</span>
+
+                                        </div>
+                                    </div>
+                                    <!-- 16th row end-->
+
+                                    <!-- 17th row start-->
+
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">State <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingState" value="{{ old('shippingState') }}" required />
+                                            <span class="text-danger">@error('shippingState'){{$message}}@enderror</span>
+                                        
+                                            
+                                        </div>
+                                    </div>
+                                    <!-- 17th row end-->
+                                    
+                                    <!-- 18th row start-->
+                                    <div class="row">
+                                        <div class="form-group col">
+                                            <label class="form-label">ZIP <span class="text-color-danger">*</span></label>
+                                            <input type="text" class="form-control h-auto py-2" name="shippingZip" value="{{ old('shippingZip') }}" required />
+                                            <span class="text-danger">@error('shippingZip'){{$message}}@enderror</span>
+                                        </div>
+                                    </div>
+                                    <!-- 18th row end-->
+
+                                    
+                                    <!-- End of Ship to a differente address fields -->
+                                </div>
+                            
+                                <br>
 
                               <button type="submit" class="btn btn-block btn-danger w-100">Submit</button>
 
                               <br/><br/><br/>
                               <a href="login" class="text-decoration-none" style="color:black;text-align:center;align-items: center;"><strong>I already have an account. sign in</strong></a>
+                                </div>
+                            </div>
+                        </div>
 
-							</div>
-							
-						
-							
-							</form>
-							
-						</div>
-					<!--</form>-->
-				</div>
-
-			</div> 
-
-       	
+                        <div class="col-md-2"></div>
+                    </div>
+                        </div>
+                    <!--</form>-->
+                </div>
        
            
        </section>
@@ -964,7 +940,7 @@
                                         <svg class="footer__contact--info__icon" xmlns="http://www.w3.org/2000/svg" width="20.57" height="13.13" viewBox="0 0 31.57 31.13">
                                             <path  d="M30.413,4H5.157C3.421,4,2.016,5.751,2.016,7.891L2,31.239c0,2.14,1.421,3.891,3.157,3.891H30.413c1.736,0,3.157-1.751,3.157-3.891V7.891C33.57,5.751,32.149,4,30.413,4Zm0,7.783L17.785,21.511,5.157,11.783V7.891l12.628,9.728L30.413,7.891Z" transform="translate(-2 -4)" fill="currentColor"></path>
                                         </svg>
-                                        <a href="mailto:demo@example.com">demo@example.com</a>
+                                        <a href="mailto:support@vijaykarnataka.com">support@vijaykarnataka.com</a>
                                     </li>
                                 </ul>
                             </div>
@@ -995,7 +971,7 @@
                             </h2>
                             <ul class="footer__widget--menu footer__widget--inner">
                                 <li class="footer__widget--menu__list"><a class="footer__widget--menu__text" href="#">My Account</a></li>
-                                <li class="footer__widget--menu__list"><a class="footer__widget--menu__text" href="cart.html">Shopping Cart</a></li>
+                                <li class="footer__widget--menu__list"><a class="footer__widget--menu__text" href="#">Shopping Cart</a></li>
                                 <li class="footer__widget--menu__list"><a class="footer__widget--menu__text" href="login">Login</a></li>
                                 <li class="footer__widget--menu__list"><a class="footer__widget--menu__text" href="register">Register</a></li>
                                 <li class="footer__widget--menu__list"><a class="footer__widget--menu__text" href="#">Checkout</a></li>
@@ -1068,7 +1044,7 @@
                 </div>
             </div>
             <div class="footer__bottom d-flex justify-content-between align-items-center">
-                <p class="copyright__content  m-0">Copyright © 2022 <a class="copyright__content--link" href="index.html">Website Experts</a> . All Rights Reserved.</p>
+                <p class="copyright__content  m-0">Copyright © 2022 <a class="copyright__content--link" href="index.html">Vijay Karnataka</a> . All Rights Reserved.</p>
                 <p class="footer__bottom--desc"><a href="privacy-policy.html">Term & condition</a> , <a href="privacy-policy.html">Privacy Policy</a></p>
             </div>
         </div>
@@ -1079,7 +1055,17 @@
     <button id="scroll__top"><svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M112 244l144-144 144 144M256 120v292"/></svg></button>
 
    
-
+<script>
+         $(".toggle-password").click(function() {
+         $(this).toggleClass("fa-eye fa-eye-slash");
+         input = $(this).parent().find("input");
+         if (input.attr("type") == "password") {
+            input.attr("type", "text");
+         } else {
+            input.attr("type", "password");
+         }
+        });
+        </script>
     
   <!-- All Script JS Plugins here  -->
   <!-- <script src="assets/js/vendor/popper.js" defer="defer"></script> -->
