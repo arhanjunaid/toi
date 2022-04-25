@@ -110,7 +110,7 @@
                             <svg class="header__contact--info__icon" xmlns="http://www.w3.org/2000/svg" width="20.57" height="13.13" viewBox="0 0 31.57 31.13">
                                 <path  d="M30.413,4H5.157C3.421,4,2.016,5.751,2.016,7.891L2,31.239c0,2.14,1.421,3.891,3.157,3.891H30.413c1.736,0,3.157-1.751,3.157-3.891V7.891C33.57,5.751,32.149,4,30.413,4Zm0,7.783L17.785,21.511,5.157,11.783V7.891l12.628,9.728L30.413,7.891Z" transform="translate(-2 -4)" fill="currentColor"></path>
                             </svg>
-                            <a href="mailto:xxx@example.com">xxxx@example.com</a>
+                            <a href="mailto:support@vijaykarnataka.com">support@vijaykarnataka.com</a>
                         </li>
                     </ul>
                     <!-- <div class="language__currency d-none d-lg-block">
@@ -181,7 +181,7 @@
                                     <a class="header__menu--link" href="about.html">About US </a>  
                                 </li> -->
                                 <li class="header__menu--items">
-                                    <a class="header__menu--link" href="gallery">Gallery <!-- <span class="menu__plus--icon">+</span> --> </a>
+                                    <a class="header__menu--link" href="home#highlights">Highlights <!-- <span class="menu__plus--icon">+</span> --> </a>
                                   
                                 </li>
                                 <li class="header__menu--items">
@@ -230,8 +230,8 @@
         <div class="offcanvas-header" tabindex="-1">
             <div class="offcanvas__inner">
                 <div class="offcanvas__logo">
-                    <a class="offcanvas__logo_link" href="/">
-                        <img src="public/assetsj/images/client-logo/logo.jpg" alt="Rokon Logo">
+                    <a class="offcanvas__logo_link" href="home">
+                        <img src="public/assetsj/images/client-logo/logo.jpg" alt="Logo">
                     </a>
                     <button class="offcanvas__close--btn" data-offcanvas>close</button>
                 </div>
@@ -251,7 +251,7 @@
                           
                         </li>
                         <li class="offcanvas__menu_li">
-                            <a class="offcanvas__menu_item" href="gallery">Gallery</a>
+                            <a class="offcanvas__menu_item" href="home#highlights">Highlights</a>
                           
                         </li>
                         <li class="offcanvas__menu_li">
@@ -774,7 +774,7 @@
                                         <svg class="footer__contact--info__icon" xmlns="http://www.w3.org/2000/svg" width="20.57" height="13.13" viewBox="0 0 31.57 31.13">
                                             <path  d="M30.413,4H5.157C3.421,4,2.016,5.751,2.016,7.891L2,31.239c0,2.14,1.421,3.891,3.157,3.891H30.413c1.736,0,3.157-1.751,3.157-3.891V7.891C33.57,5.751,32.149,4,30.413,4Zm0,7.783L17.785,21.511,5.157,11.783V7.891l12.628,9.728L30.413,7.891Z" transform="translate(-2 -4)" fill="currentColor"></path>
                                         </svg>
-                                        <a href="mailto:demo@example.com">demo@example.com</a>
+                                        <a href="mailto:support@vijaykarnataka.com">support@vijaykarnataka.com</a>
                                     </li>
                                 </ul>
                             </div>
@@ -878,7 +878,7 @@
                 </div>
             </div>
             <div class="footer__bottom d-flex justify-content-between align-items-center">
-                <p class="copyright__content  m-0">Copyright © 2022 <a class="copyright__content--link" href="index.html">Website Experts</a> . All Rights Reserved.</p>
+                <p class="copyright__content  m-0">Copyright © 2022 <a class="copyright__content--link" href="index.html">Vijay Karnataka</a> . All Rights Reserved.</p>
                 <p class="footer__bottom--desc"><a href="privacy-policy.html">Term & condition</a> , <a href="privacy-policy.html">Privacy Policy</a></p>
             </div>
         </div>
