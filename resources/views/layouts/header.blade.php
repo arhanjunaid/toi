@@ -7,7 +7,7 @@
 <meta name="description" content="Drathacreations &#189; Event planner &amp; celebration html Template" />
 <meta name="author" content="https://www.websiteexperts.in/" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Toi &#8211; Just another WordPress site</title>
+<title>Tune into the Bhakti zone at your house</title>
 
 <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
@@ -115,7 +115,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     left:40px;
     background-color:#25d366;
     color:#FFF;
-    border-radius:50px;
+    border-radius:100px;
     text-align:center;
   font-size:30px;
     box-shadow: 2px 2px 3px #999;
@@ -204,7 +204,7 @@ img {vertical-align: middle;}
         <!--whatsapp icon start-->
        
        <a href="https://api.whatsapp.com/send?phone=+91xxxxxxxxx" class="float" target="_blank">
-       <img src="public/images/icons/watsapp.jpeg">
+       <img src="public/home_assets/images/icons/icons8-whatsapp-80.png">
        </a>
 
         <!--whatsapp icon end-->
@@ -235,7 +235,7 @@ img {vertical-align: middle;}
                         <ul class="d-flex align-items-center">
                             <li class="language__currency--list">
                                 <a class="language__switcher text-white" href="#">
-                                    <span><img src="public/images/icons/fb.png" width="25px"></span> 
+                                    <span><img src="public/home_assets/images/icons/icons8-facebook-48.png" width="25px" title="Facebook"></span> 
                                    <!--  <svg xmlns="http://www.w3.org/2000/svg" width="11.797" height="9.05" viewBox="0 0 9.797 6.05">
                                         <path  d="M14.646,8.59,10.9,12.329,7.151,8.59,6,9.741l4.9,4.9,4.9-4.9Z" transform="translate(-6 -8.59)" fill="currentColor" opacity="0.7"/>
                                     </svg> -->
@@ -250,28 +250,28 @@ img {vertical-align: middle;}
                             </li>
                             <li class="language__currency--list">
                                 <a class="account__currency--link text-white" href="#">
-                                    <span><img src="public/images/icons/twitter.jpeg" width="25px"></span>
+                                    <span><img src="public/home_assets/images/icons/icons8-twitter-48.png" width="25px" title="Twitter"></span>
 
                                 </a>
                               
                             </li>
                             <li class="language__currency--list">
                                 <a class="account__currency--link text-white" href="#">
-                                   <span><img src="public/images/icons/linkedin.png" width="25px"></span>
+                                   <span><img src="public/home_assets/images/icons/icons8-linkedin-circled-48.png" width="25px" title="Linkedin"></span>
 
                                 </a>
                               
                             </li>
                             <li class="language__currency--list">
                                 <a class="account__currency--link text-white" href="#">
-                                   <span><img src="public/images/icons/dribble.png" width="25px"></span> 
+                                   <span><img src="public/home_assets/images/icons/icons8-dribbble-64.png" width="25px" title="Dribble"></span> 
 
                                 </a>
                               
                             </li>
                             <li class="language__currency--list">
                                 <a class="account__currency--link text-white" href="#">
-                                    <span><img src="public/images/icons/instagram.jpeg" width="25px"></span> 
+                                    <span><img src="public/home_assets/images/icons/icons8-instagram-48.png" width="25px" title="Instagram"></span> 
 
                                 </a>
                               
@@ -540,8 +540,9 @@ img {vertical-align: middle;}
 <!-- main content--->
 
 <main id="content" class="site-main post-10 page type-page status-publish hentry" role="main">
-            <header class="page-header">
-            <h1 class="entry-title">home</h1>       </header>
+         <!--    <header class="page-header">
+            <h1 class="entry-title">home</h1>
+            </header> -->
         <div class="page-content">
                 <div data-elementor-type="wp-page" data-elementor-id="10" class="elementor elementor-10">
                                     <section class="elementor-section elementor-top-section elementor-element elementor-element-e5d4a90 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e5d4a90" data-element_type="section">
@@ -550,12 +551,17 @@ img {vertical-align: middle;}
             <div class="elementor-widget-wrap elementor-element-populated">
                                 <div class="elementor-element elementor-element-ad1e55c elementor-widget elementor-widget-image" data-id="ad1e55c" data-element_type="widget" data-widget_type="image.default">
                 <div class="elementor-widget-container">
-                                                            <img width="1700" height="700" src="http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3.png" class="attachment-full size-full" alt="" loading="lazy" srcset="http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3.png 1700w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-300x124.png 300w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-1024x422.png 1024w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-768x316.png 768w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-1536x632.png 1536w" sizes="(max-width: 1700px) 100vw, 1700px" />                                                          </div>
+                    <img width="1700" height="700" src="public/home_assets/images/vkb1-3.png" class="attachment-full size-full" alt="" loading="lazy" srcset="public/home_assets/images/vkb1-3.png 1700w, public/home_assets/images/vkb1-3.png 300w, public/home_assets/images/vkb1-3.png 1024w, public/home_assets/images/vkb1-3.png 768w, public/home_assets/images/vkb1-3.png 1536w" sizes="(max-width: 1700px) 100vw, 1700px" />       
+                                                            <!-- <img width="1700" height="700" src="http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3.png" class="attachment-full size-full" alt="" loading="lazy" srcset="http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3.png 1700w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-300x124.png 300w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-1024x422.png 1024w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-768x316.png 768w, http://toi.websitedesignersinbangalore.com/wp-content/uploads/2022/04/vkb1-3-1536x632.png 1536w" sizes="(max-width: 1700px) 100vw, 1700px" />        -->                                                   </div>
                 </div>
                     </div>
         </div>
-                            </div>
-        </section><br/><br/>
+        </div>
+        </section>
+    </div>
+</div>
+
+        <br/><br/>
                 <section class="container" id="about">
 
                             <!--- row start-->
@@ -740,7 +746,7 @@ img {vertical-align: middle;}
         </section>
         <br/><br/>
        <section>
-            <div class="d-flex" style="background-color:#FBB323">
+            <div class="d-flex">
             <img src="public/home_assets/images/1-6.png"><img src="public/home_assets/images/1-7.png">
         </div>
        </section>
@@ -923,7 +929,7 @@ img {vertical-align: middle;}
        <section class="container">
         <div class="row">
             <div class="col-md-8">
-                <a  href="home"><img src="public/assetsj/images/client-logo/logo-3.png" alt="footer-logo" width="400px"></a>
+                <a  href="home"><img src="public/assetsj/images/client-logo/logo.jpg" alt="footer-logo" width="400px"></a>
                 <br/><br/>
                 <p>As the world moves on at a fast pace, the need to keep one’s mind calm and immersed in a spiritual plane while living in the present becomes very important</p>
                 <br/>
@@ -935,6 +941,7 @@ img {vertical-align: middle;}
                 <h4><a href="#about">About</a></h4>
                 <h4><a href="#highlights">Highlights</a></h4>
                 <h4><a href="#howitworks">How It Works</a></h4>
+                <h4><a href="contactus">Contact Us</a></h4>
             </div>
         </div>
            
