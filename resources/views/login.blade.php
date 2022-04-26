@@ -495,13 +495,13 @@
         <!-- End breadcrumb section -->
 
         <!-- Start contact section -->
-        <section class="contact__section section--padding">
-            <div class="container">
+        <!-- <section class="contact__section section--padding">
+            <div class="container"> -->
                 <!--<div class="section__heading text-center mb-40">
                     <h2 class="section__heading--maintitle text__secondary mb-10">Our Gallery</h2>
                     <p class="section__heading--desc">The Family Bhakti Player helps you tune into Bhakti music, devotional songs, mantras, music therapy, gives you a glimpse into festivals and fairs, moral stories, discourse from the heads of Mutts and religious thinkers.</p>
                 </div>-->
-                <div class="main__contact--area">
+               <!--  <div class="main__contact--area"> -->
                    <!--  <div class="row align-items-center row-md-reverse">
                         <div class="col-lg-5">
                             <div class="contact__info border-radius-10">
@@ -631,10 +631,11 @@
                             </div>
                         </div>
                     </div> -->
-                </div>
+        <!--         </div>
             </div>
-        </section>
+        </section> -->
         <!-- End contact section -->
+        <br/><br/>
 
        <!-- login form section start-->
 
@@ -679,12 +680,12 @@
 										<div class="row justify-content-between">
 											<div class="form-group col-md-auto">
 												<div class="custom-control custom-checkbox">
-													<input type="checkbox" class="custom-control-input" id="rememberme">
-													<label class="form-label custom-control-label cur-pointer text-2" for="rememberme">Remember Me</label>
+													<!-- <input type="checkbox" class="custom-control-input" id="rememberme">
+													<label class="form-label custom-control-label cur-pointer text-2" for="rememberme">Remember Me</label> -->
 												</div>
 											</div>
 											<div class="form-group col-md-auto">
-												<a class="text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-2" href="#">Forgot Password?</a>
+												<!-- <a class="text-decoration-none text-color-dark text-color-hover-primary font-weight-semibold text-2" href="#">Forgot Password?</a> -->
 											</div>
 										</div>
 										<div class="row">
@@ -692,14 +693,14 @@
 												<button type="submit" class="btn btn-dark btn-modern w-100 text-uppercase rounded-0 font-weight-bold text-3 py-3" data-loading-text="Loading...">Login</button>
 												<br/>
 												<div class="divider">
-													<span class="bg-light px-4 position-absolute left-50pct top-50pct transform3dxy-n50">or</span>
+													<span class="bg-light px-4 position-absolute left-50pct top-50pct transform3dxy-n50"><i>or</i></span>
 												</div>
 												<br/><br/>
-												<a href="#" class="btn btn-primary-scale-2 btn-danger btn-modern w-100 text-transform-none rounded-0 font-weight-bold align-items-center d-inline-flex justify-content-center text-3 py-3" data-loading-text="Loading..."><i class="fab fa-facebook text-5 me-2"></i> Login With Facebook</a>
+												<a href="https://www.facebook.com/" target="_blank" class="btn btn-primary-scale-2 btn-danger btn-modern w-100 text-transform-none rounded-0 font-weight-bold align-items-center d-inline-flex justify-content-center text-3 py-3" data-loading-text="Loading..."><img src="public/home_assets/images/icons/icons8-facebook-48.png" width="25px" title="Facebook"></i>   Login With Facebook</a>
 											    
 
 											</div>
-											<br/><br/>
+											<br/><br/><i style="visibility: hidden;">or</i>
 
 											<a href="register" class="text-decoration-none" style="color:blue;text-align:center"><strong>I don't have an account. sign in</strong></a>
 										</div>
